@@ -1,0 +1,19 @@
+@import "~bulma/sass/utilities/all"; // Bulma framework
+
+$navbar-height: 5rem;
+
+@import "~bulma";
+
+html,
+body {
+  height: 100%;
+  font-size: 16px;
+}
+
+p {
+  font-family: "Newsreader", serif;
+}
+
+* {
+  // outline: 1px solid red;
+}
