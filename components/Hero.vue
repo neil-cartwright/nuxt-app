@@ -10,7 +10,7 @@ export default {};
 
 <style lang="scss" scoped>
 .hero {
-  background: url("~assets/images/dvd-store.jpg");
+  background: url("~assets/images/dvd-store-processed.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 300px;
