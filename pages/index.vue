@@ -30,6 +30,11 @@ import Film from "@/components/Film";
 import axios from "axios";
 export default {
   name: "Index",
+  head() {
+    return {
+      title: "DVD Collection"
+    };
+  },
   transition: "home",
   data() {
     return {
